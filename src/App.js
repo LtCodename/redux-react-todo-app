@@ -1,3 +1,5 @@
+//Simple increment/decrement app
+
 import React from 'react';
 
 function App({
